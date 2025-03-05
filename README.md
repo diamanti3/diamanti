@@ -1,0 +1,2 @@
+- Clean and simple design
+- Easy to use search interface
